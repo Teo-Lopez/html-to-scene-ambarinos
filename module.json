@@ -43,7 +43,7 @@
   "dependencies": [],
   "socket": false,
   "manifest": "https://github.com/Teo-Lopez/html-to-scene/releases/latest/download/module.json",
-  "download": "https://github.com/Teo-Lopez/html-to-scene/releases/latest/download/html-to-scene.zip",
+  "download": "https://github.com/Teo-Lopez/html-to-scene-ambarinos/releases/download/1.3.1/html-to-scene.zip",
   "protected": false,
   "coreTranslation": false,
   "library": false
