@@ -1,6 +1,8 @@
 {
-	"name": "html-to-scene",
+	"id": "html-to-scene-ambarinos",
 	"title": "HTML to Scene",
+	"version": "1.3.0",
+	"name": "html-to-scene-ambarinos",
 	"description": "A hacky module that allows its user to replace scene contents into a local html file or external website with the power of iframes.",
 	"author": "Javiondox",
 	"authors": [
@@ -19,7 +21,6 @@
 	"bugs": "https://github.com/Teo-Lopez/html-to-scene-ambarinos/issues",
 	"changelog": "https://github.com/Teo-Lopez/html-to-scene-ambarinos/releases",
 	"flags": {},
-	"version": "1.3.0",
 	"minimumCoreVersion": "12",
 	"compatibleCoreVersion": "12",
 	"scripts": [],
